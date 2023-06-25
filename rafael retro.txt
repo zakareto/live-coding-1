@@ -1,0 +1,20 @@
+trae comentarios sobre las instrucciiones como primer paso despues de forkear y clonar el repo 
+
+explica bien paso a paso lo que hace y por que en el fork y en el clone ya que lo hizo en mac por la de dos pasos
+
+durante la resolucion del problema lee algunas cosas en voz alta pero se pierde el hilo de explicar que esta haciendo y por que creo por que se concentra en resolver el codigo 
+se confundio un poco y penso que eran 3 ejercicios por lo cual dudaba sobre como imprimir su array, agrege un poco de instrucciones 
+despues de eso comienza a explicar muy bien nuevamente que realiza por un tiempo.
+despues se vuelve a perder la continuidad de la explicacion y pregunta como se realiza algo, refiere que habla consigo mismo (nuevamente preguntar a mentoria)
+tiene problemas para realizar la conexion de script de js.
+no consulta documentacion pero hace pruebas de consola y revisa el codigo 
+imprime resultados sobre un array mayor a 5 letras 
+consulta documentacion para el dom 
+comenta su codigo 
+nuevamente pierde la explicacion y aveces comenta esto esta mal, no recuerdo esto, en la documentacion esta asi pero no funciona( no si utilizar esas palabras seria bueno en una entrevista tecnica o si pudieran sustituirse por alguna otra 
+sugiero al compañero preguntar a mentoria.
+resultado final, el codigo no cumple con su funcion ya que imprime todas las palabras no solo las mas largas. sin embargo si imprime en el dom los arreglos y un buscador que venia en el reto como extra.
+
+
+
+
